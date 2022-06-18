@@ -1,0 +1,38 @@
+id: I19DA05EA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:05:57.819083'
+last_modified: '2022-06-18T20:05:57.819097'
+parser: null
+source_metadata:
+  title: Seven points of mind training and prayer by Tsong kha pa (1357–1419) (block
+    print), colophon excerpt
+  author: chad kha ba ye shes rdo rje/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-07-11); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4949
+  bases:
+    b11e:
+      title: Seven points of mind training and prayer by Tsong kha pa (1357–1419)
+        (block print), colophon excerpt
+      order: 1
+      base_file: b11e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
